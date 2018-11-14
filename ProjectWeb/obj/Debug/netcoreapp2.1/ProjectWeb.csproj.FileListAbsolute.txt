@@ -1,0 +1,14 @@
+C:\Users\F\ProjectWebshop\ProjectWeb\bin\Debug\netcoreapp2.1\ProjectWeb.deps.json
+C:\Users\F\ProjectWebshop\ProjectWeb\bin\Debug\netcoreapp2.1\ProjectWeb.runtimeconfig.json
+C:\Users\F\ProjectWebshop\ProjectWeb\bin\Debug\netcoreapp2.1\ProjectWeb.runtimeconfig.dev.json
+C:\Users\F\ProjectWebshop\ProjectWeb\bin\Debug\netcoreapp2.1\ProjectWeb.dll
+C:\Users\F\ProjectWebshop\ProjectWeb\bin\Debug\netcoreapp2.1\ProjectWeb.pdb
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.csprojAssemblyReference.cache
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.RazorAssemblyInfo.cache
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.RazorAssemblyInfo.cs
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.AssemblyInfo.cs
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.dll
+C:\Users\F\ProjectWebshop\ProjectWeb\obj\Debug\netcoreapp2.1\ProjectWeb.pdb
